@@ -15,7 +15,7 @@
 | 219  | [Contains Duplicate II](https://github.com/SweetBubbleTea/leetcode/blob/main/Arrays/219.%20Contains%20Duplicate%20II%20(Easy).md)                                                                               | Easy       |
 | 242  | [Valid Anagram](https://github.com/SweetBubbleTea/leetcode/blob/main/HashMaps/242.%20Valid%20Anagram%20(Easy).md)                                                                                               | Easy       |
 | 268  | [Missing Number](https://github.com/SweetBubbleTea/leetcode/blob/main/Arrays/268.%20Missing%20Number%20(Easy).md)                                                                                               | Easy       |
-| 278  | [First Bad Version](https://github.com/SweetBubbleTea/leetcode/blob/main/Arrays/268.%20Missing%20Number%20(Easy).md) | Easy |
+| 278  | [First Bad Version](https://github.com/SweetBubbleTea/leetcode/blob/main/Binary%20Search/278.%20Binary%20Search%20(Easy).md) | Easy |
 | 290  | [Word Pattern](https://github.com/SweetBubbleTea/leetcode/blob/main/HashMaps/290.%20Word%20Pattern%20(Easy).md)                                                                                                 | Easy       |
 | 349  | [Intersection of Two Arrays](https://github.com/SweetBubbleTea/leetcode/blob/main/Arrays/349.%20Intersection%20of%20Two%20Arrays%20(Easy).md)                                                                   | Easy       |
 | 387  | [First Unique Character in a String](https://github.com/SweetBubbleTea/leetcode/blob/main/HashMaps/387.%20First%20Unique%20Character%20in%20a%20String%20(Easy).md)                                             | Easy       |
